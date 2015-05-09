@@ -1,0 +1,7 @@
+C:\Users\XiaoSanya\Documents\SharpDevelop Projects\IconCatch\IconCatch\bin\Debug\IconCatch.exe
+C:\Users\XiaoSanya\Documents\SharpDevelop Projects\IconCatch\IconCatch\bin\Debug\IconCatch.pdb
+C:\Users\XiaoSanya\Documents\SharpDevelop Projects\IconCatch\IconCatch\obj\Debug\IconCatch.csprojResolveAssemblyReference.cache
+C:\Users\XiaoSanya\Documents\SharpDevelop Projects\IconCatch\IconCatch\obj\Debug\IconCatch.MainForm.resources
+C:\Users\XiaoSanya\Documents\SharpDevelop Projects\IconCatch\IconCatch\obj\Debug\IconCatch.csproj.GenerateResource.Cache
+C:\Users\XiaoSanya\Documents\SharpDevelop Projects\IconCatch\IconCatch\obj\Debug\IconCatch.exe
+C:\Users\XiaoSanya\Documents\SharpDevelop Projects\IconCatch\IconCatch\obj\Debug\IconCatch.pdb
